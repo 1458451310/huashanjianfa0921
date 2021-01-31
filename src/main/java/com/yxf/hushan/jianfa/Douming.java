@@ -5,5 +5,6 @@ public class Douming {
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
         System.out.println("夺命连环三仙剑");
+        System.out.println("夺命连环三仙剑");
     }
 }
